@@ -11,6 +11,7 @@ bool judgeSquareSum(int c) {
         return false;
       
 } 
+
  
 int main(int argc, char const *argv[])
 {
