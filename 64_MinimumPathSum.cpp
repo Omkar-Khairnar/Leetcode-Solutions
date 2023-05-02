@@ -1,24 +1,24 @@
 #include <bits/stdc++.h>
  
 using namespace std;
-int pathcost=INT_MAX;
-    void checkpath(vector<vector<int>>& grid, int row, int col,int sum){
-        if(row == grid.size()-1 && col == grid[0].size()-1){
-            sum+=grid[row][col];
-            pathcost=min(pathcost, sum);
-            return;
+ 
+    int minPathSum(vector<vector<int>>& grid) {
+        int dp[grid.size()][grid[0].size()];
+        dp[0][0]=grid[0][0];
+
+        for(int i=1; i<grid[0].size(); i++){
+            dp[0][i]=grid[0][i]+dp[0][i-1];
         }
-        sum+=grid[row][col];
-        if(row < grid.size()){
-            checkpath(grid, row+1, col, sum);
+        for(int i=1; i<grid.size(); i++){
+            dp[i][0]=grid[i][0]+dp[i-1][0];
         }
-        if(col<grid[0].size()){
-            checkpath(grid,row,col+1,sum);
+
+        for(int i=1; i<grid.size(); i++){
+            for(int j=1; j<grid[0].size(); j++){
+                dp[i][j]=grid[i][j]+min(dp[i-1][j], dp[i][j-1]);
+            }
         }
-    }
-   int minPathSum(vector<vector<int>>& grid) {
-        checkpath(grid,0,0,0);
-        return pathcost;
+        return dp[grid.size()-1][grid[0].size()-1];      
     }
  
 int main(int argc, char const *argv[])
