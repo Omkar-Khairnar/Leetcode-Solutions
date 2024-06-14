@@ -14,7 +14,8 @@ public:
         int val = nums[0]+1;
         int incr = 0;
         while(!q.empty()){
-            while(mp[val] > 0 || q.front() >= val){
+            val = max(val, q.front()+1);
+            while(mp[val] > 0 ){
                 val++;
             }
             int num = q.front();
