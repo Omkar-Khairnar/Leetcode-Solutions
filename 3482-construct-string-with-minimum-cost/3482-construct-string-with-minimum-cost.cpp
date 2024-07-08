@@ -1,5 +1,3 @@
-
-
 class TrieNode
 {
     public:
@@ -8,8 +6,7 @@ class TrieNode
     int cost = INT_MAX;
 
     TrieNode(){
-        isWordCompleted = false; 
-        cost = INT_MAX;
+
         for(int i=0; i<26; i++){
             links[i]=NULL;
         }
@@ -23,7 +20,6 @@ public:
         if(idx == target.size()){
             return 0;
         }
-        
         if(dp[idx] != -1) return dp[idx];
         long long ans = INT_MAX;
         TrieNode *curr = root;
@@ -63,3 +59,4 @@ public:
         return val; 
     }
 };
+
