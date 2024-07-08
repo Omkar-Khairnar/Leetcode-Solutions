@@ -1,78 +1,65 @@
 
-struct TrieNode {
-    TrieNode* Node[26];
-    int Cost = INT_MAX;
-    bool flag = false;
 
-    TrieNode() {
-        for (int i = 0; i < 26; ++i)
-            Node[i] = nullptr;
-    }
-    int costR() {
-        return Cost;
-    }
-    bool isEnd() {
-        return flag;
-    }
-    void setEnd(int c) {
-        Cost = min(c,Cost);
-        flag = true;
-    }
-    TrieNode* nextNode(char c) {
-        return Node[c - 'a'];
-    }
-    void add(char c) {
-        Node[c - 'a'] = new TrieNode;
-    }
+class TrieNode
+{
+    public:
+    TrieNode *links[26];
+    bool isWordCompleted = false; 
+    int cost = INT_MAX;
 
-    bool isPresent(char c) {
-        return Node[c - 'a'] != nullptr;
+    TrieNode(){
+        isWordCompleted = false; 
+        cost = INT_MAX;
+        for(int i=0; i<26; i++){
+            links[i]=NULL;
+        }
     }
 };
+
 
 class Solution {
 public:
-    int dfs(int idx, string& t, TrieNode* root, vector<int>& dp) {
-        if (idx == t.size()) return 0;
-        if (dp[idx] != -1) return dp[idx];
-
-        int minCost = INT_MAX;
-        TrieNode* node = root;
-
-        for (int i = idx; i < t.size(); ++i) {
-            char currentChar = t[i];
-            if (node->nextNode(currentChar)) {
-                node = node->nextNode(currentChar);
-                if (node->isEnd()) {
-                    int currentCost = node->costR();
-                    int remainingCost = dfs(i + 1, t, root, dp);
-                    if (remainingCost != INT_MAX) {
-                        minCost = min(minCost, currentCost + remainingCost);
-                    }
-                }
-            } else {
-                break;
-            }
+    long long fun(int idx, string &target, TrieNode *root, vector<int>&dp){
+        if(idx == target.size()){
+            return 0;
         }
-        return dp[idx] = minCost;
+        
+        if(dp[idx] != -1) return dp[idx];
+        long long ans = INT_MAX;
+        TrieNode *curr = root;
+        for(int i = idx; i<target.size(); i++){
+            char ch = target[i];
+            curr = curr->links[target[i]-'a'];
+            if(curr){
+                if(curr->isWordCompleted){
+                    int val = curr->cost;
+                    long long nextItr =  fun(i+1, target, root, dp);
+                    ans = min(ans, val + nextItr);
+                }
+            }else break;
+        }
+
+        return dp[idx] = ans;
     }
-
     int minimumCost(string target, vector<string>& words, vector<int>& costs) {
-        int n = words.size();
-        TrieNode* root = new TrieNode();
-        for (int i = 0; i < n; ++i) {
-            TrieNode* node = root;
-            for (char c : words[i]) {
-                if (!node->isPresent(c)) {
-                    node->add(c);
+        TrieNode *root = new TrieNode();
+        int n = target.size();
+        vector<int>dp(n+1,-1);
+        for(int i=0; i<words.size(); i++){
+            string s = words[i];
+            TrieNode *curr = root;
+            for(int j=0; j<s.size(); j++){
+                if(curr->links[s[j]-'a'] == NULL){
+                    curr->links[s[j]-'a'] = new TrieNode();
                 }
-                node = node->nextNode(c);
+                curr = curr->links[s[j]-'a'];
             }
-            node->setEnd(costs[i]);
+            curr->isWordCompleted=true;
+            curr->cost = min(curr->cost, costs[i]);
         }
-        vector<int> dp(target.size(), -1);
-        int result = dfs(0, target, root, dp);
-        return result == INT_MAX ? -1 : result;
+
+        long long val = fun(0, target, root, dp);
+        if(val >= INT_MAX) return -1;
+        return val; 
     }
 };
-
