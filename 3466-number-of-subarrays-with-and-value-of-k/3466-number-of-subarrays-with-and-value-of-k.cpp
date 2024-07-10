@@ -1,50 +1,20 @@
+#define ll long long 
 class Solution {
 public:
- long long goodarrays(vector<int>& E, int curr) {
-        sort(E.begin(), E.end());
-
-        long long pts = 0;
-        int l = 0, r = E.size()-1;
-        int n = E.size();
-        while(r>=0){
-            if(l <= r && curr >= E[l]){
-                pts += (curr/E[l]);
-                curr = curr % E[l];
+    long long countSubarrays(vector<int>& nums, int k) {
+        int n = nums.size();
+        unordered_map<int,int>prevAnd;
+        ll ans=0;
+        for(int i=0; i<n; i++){
+            unordered_map<int,int>currAnd;
+            for(auto [num, count] : prevAnd){
+                currAnd[num&nums[i]] += count;
             }
-            else if(pts >= 1){
-                curr += E[r];
-                r--;
-            }
-            else break;
+            currAnd[nums[i]]++;
+            ans += currAnd[k];
+            prevAnd = currAnd;
         }
 
-        return pts;
-    }
-   long long countSubarrays(vector<int>& vec, int K) {
-        int n = vec.size();
-        long long count = 0;
-        
-        unordered_map<long long, long long> prev;
-
-        for (int i = 0; i < n; ++i) {
-            unordered_map<long long, long long> curr; 
-
-            if (vec[i] == K) {
-                ++count;
-            }
-            curr[vec[i]] = 1;
-
-            for (auto& [val, freq] : prev) {
-                long long newAndResult = val & vec[i];
-                if (newAndResult == K) {
-                    count += freq;
-                }
-                curr[newAndResult] += freq;
-            }
-            
-            prev = curr;
-        }
-        
-        return count;
+        return ans;
     }
 };
