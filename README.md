@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2846-robot-collisions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+| [2846-robot-collisions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Greedy
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+| [2846-robot-collisions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
+| [2846-robot-collisions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 ## Bit Manipulation
 |  |
 | ------- |
