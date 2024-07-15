@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2846-robot-collisions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## String
 |  |
 | ------- |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+## Hash Table
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
