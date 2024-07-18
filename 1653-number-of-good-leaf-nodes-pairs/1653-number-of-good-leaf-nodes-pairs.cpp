@@ -13,31 +13,28 @@ class Solution {
 public:
     int ans = 0;
     vector<int>dfs(TreeNode *root, int distance){
-        vector<int>p;
+        vector<int>p(10,0);
         if(!root) return p;
 
 
         vector<int>left = dfs(root->left, distance);
         vector<int>right = dfs(root->right, distance);
 
-        if(left.size() == 0 && right.size() == 0){
-            p.push_back(1);
+        if(!root->left && !root->right){
+            p[0] = 1;
             return p;
         }
 
         for(int i=0; i<left.size(); i++){
             for(int j=0; j<right.size(); j++){
-                if(left[i]+right[j] <= distance){
-                    ans++;
+                if(i+1+j+1 <= distance){
+                    ans+= (left[i] * right[j]);
                 }
             }
         }
 
-        for(int i=0; i<left.size(); i++){
-            p.push_back(++left[i]);
-        }
-        for(int i=0; i<right.size(); i++){
-            p.push_back(++right[i]);
+        for(int i=0; i<9; i++){
+            p[i+1] = left[i] + right[i]; 
         }
 
         return p;
