@@ -53,7 +53,6 @@ public:
         string ans = "";
         map<string, int>mp = fun(idx, formula, n);
         for(auto it=mp.begin(); it != mp.end(); it++){
-            cout<<it->first<<" "<<it->second<<endl;
             ans += it->first;
             if(it->second > 1) ans += to_string(it->second);
         }
