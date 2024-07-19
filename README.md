@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -65,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Binary Tree
 |  |
 | ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
