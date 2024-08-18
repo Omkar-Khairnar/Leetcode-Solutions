@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0890-lemonade-change) |
+| [1063-best-sightseeing-pair](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1063-best-sightseeing-pair](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1376-selling-pieces-of-wood](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1376-selling-pieces-of-wood) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
