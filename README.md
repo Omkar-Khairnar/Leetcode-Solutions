@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2502-sort-the-people](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2502-sort-the-people) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1376-selling-pieces-of-wood](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1376-selling-pieces-of-wood) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Tree
 |  |
