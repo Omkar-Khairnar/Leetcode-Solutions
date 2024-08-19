@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1307-ugly-number-iii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1307-ugly-number-iii) |
 | [1642-water-bottles](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1642-water-bottles) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [1063-best-sightseeing-pair](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1376-selling-pieces-of-wood](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1376-selling-pieces-of-wood) |
