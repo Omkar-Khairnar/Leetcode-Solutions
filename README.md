@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0870-magic-squares-in-grid](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1240-stone-game-ii) |
 | [1307-ugly-number-iii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1307-ugly-number-iii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1307-ugly-number-iii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1307-ugly-number-iii) |
