@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2846-robot-collisions) |
