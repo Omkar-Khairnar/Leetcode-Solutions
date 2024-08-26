@@ -11,7 +11,7 @@ public:
 
         if(l == h) return l;
 
-        while(l <= h){
+        while(l < h){
             int mid = (l + h)/2;
             int count = 0;
             bool isPresentExactDiff = false;
@@ -21,11 +21,11 @@ public:
                 if(nums[lb] == target) isPresentExactDiff = true;
                 count += (i-lb);
             }
-            if(count == k && isPresentExactDiff){
-                return mid;
-            }
+            // if(count == k && isPresentExactDiff){
+            //     return mid;
+            // }
             if(count >= k){
-                h = mid-1;
+                h = mid;
             }
             else{
                 l = mid+1;
