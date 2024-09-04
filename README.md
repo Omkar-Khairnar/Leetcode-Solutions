@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [1063-best-sightseeing-pair](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0726-number-of-atoms](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
