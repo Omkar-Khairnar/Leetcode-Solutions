@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Sorting
 |  |
 | ------- |
