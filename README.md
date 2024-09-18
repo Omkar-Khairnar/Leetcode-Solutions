@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0179-largest-number](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0658-find-k-closest-elements](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0179-largest-number](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0726-number-of-atoms](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
