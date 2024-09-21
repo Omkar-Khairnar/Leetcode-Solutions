@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -259,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
