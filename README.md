@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0726-number-of-atoms](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -264,4 +265,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
