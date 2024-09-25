@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2846-robot-collisions) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Matrix
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
