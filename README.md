@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0859-design-circular-deque](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
@@ -285,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
