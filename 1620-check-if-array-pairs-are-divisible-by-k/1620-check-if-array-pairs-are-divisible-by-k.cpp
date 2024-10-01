@@ -1,11 +1,6 @@
 class Solution {
 public:
     bool canArrange(vector<int>& arr, int k) {
-        // cout<<(-7%5)<<endl;
-        // cout<<(-5%5)<<endl;
-
-        
-
         unordered_map<int, int>mp;
         for(int i=0; i<arr.size(); i++){
             int rem = arr[i]%k;
