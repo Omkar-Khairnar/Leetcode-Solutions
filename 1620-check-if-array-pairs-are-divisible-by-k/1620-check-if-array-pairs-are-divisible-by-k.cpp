@@ -4,28 +4,16 @@ public:
         unordered_map<int, int>mp;
         for(int i=0; i<arr.size(); i++){
             int rem = arr[i]%k;
-            if(rem >= 0){
-                if(mp[-rem] > 0){
-                    mp[-rem]--;
-                }
-                else if(mp[k-rem] > 0){
-                    mp[k-rem]--;
-                }
-                else{
-                    mp[rem]++;
-                }
+            int sign = (rem >= 0) ? 1 : -1;
+            if(mp[-rem] > 0){
+                mp[-rem]--;
+            }
+            else if(mp[sign*(k-abs(rem))] > 0){
+                mp[sign*(k-abs(rem))]--;
             }
             else{
-                if(mp[-rem] > 0){
-                    mp[-rem]--;
-                }
-                else if(mp[-(k-abs(rem))] > 0){
-                    mp[-(k-abs(rem))]--;
-                }
-                else{
-                    mp[rem]++;
-                }
-            }
+                mp[rem]++;
+            }   
         }
 
         for(auto it:mp){
