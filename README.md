@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2846-robot-collisions) |
+| [3034-points-that-intersect-with-cars](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+| [3034-points-that-intersect-with-cars](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Matrix
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0732-my-calendar-iii) |
 | [1240-stone-game-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1240-stone-game-ii) |
 | [1983-maximum-population-year](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1983-maximum-population-year) |
+| [3034-points-that-intersect-with-cars](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
 ## Game Theory
 |  |
 | ------- |
