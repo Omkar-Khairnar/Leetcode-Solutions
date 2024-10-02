@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0890-lemonade-change) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1307-ugly-number-iii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1307-ugly-number-iii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Memoization
 |  |
@@ -293,9 +296,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
