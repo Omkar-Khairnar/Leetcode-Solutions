@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
+| [1184-car-pooling](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1642-water-bottles](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [2155-find-missing-observations](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [1063-best-sightseeing-pair](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1184-car-pooling](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1196-filling-bookcase-shelves](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1240-stone-game-ii) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
+| [1184-car-pooling](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0658-find-k-closest-elements](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1184-car-pooling](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1325-path-with-maximum-probability) |
 ## Combinatorics
 |  |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0732-my-calendar-iii) |
+| [1184-car-pooling](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1240-stone-game-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1240-stone-game-ii) |
 | [1983-maximum-population-year](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
