@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [1983-maximum-population-year](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1983-maximum-population-year) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2155-find-missing-observations](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3034-points-that-intersect-with-cars](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0732-my-calendar-iii) |
 | [1240-stone-game-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1240-stone-game-ii) |
 | [1983-maximum-population-year](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1983-maximum-population-year) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3034-points-that-intersect-with-cars](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
 ## Game Theory
 |  |
