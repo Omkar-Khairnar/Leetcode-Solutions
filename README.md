@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 | [3034-points-that-intersect-with-cars](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2502-sort-the-people](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3034-points-that-intersect-with-cars](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
 | ------- |
