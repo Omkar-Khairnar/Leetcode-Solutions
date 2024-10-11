@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [1983-maximum-population-year](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2155-find-missing-observations](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1184-car-pooling](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Combinatorics
 |  |
 | ------- |
