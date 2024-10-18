@@ -1,20 +1,29 @@
 class Solution {
 public:
     int maxi = 0;
-    void fun(int idx, int curr, unordered_map<int,int>&mp, vector<int>&nums){
+    int fun(int idx, int curr, vector<vector<int>>&dp, vector<int>&nums){
         if(idx == nums.size()){
-            if(curr > maxi) maxi = curr;
-            mp[curr]++;
-            return ;
+            if(curr == maxi) return 1;
+            return 0;
         }
 
-        fun(idx+1, curr, mp, nums);
-        fun(idx+1, curr|nums[idx], mp, nums);
+        if(dp[idx][curr] != -1){
+            return dp[idx][curr];
+        }
+
+        int notTake = fun(idx+1, curr, dp, nums);
+        int take = fun(idx+1, curr|nums[idx], dp, nums);
+
+        return dp[idx][curr] = take+notTake;
     }
+
+
     int countMaxOrSubsets(vector<int>& nums) {
-        unordered_map<int, int>mp;
-        fun(0, 0, mp, nums);
-        
-        return mp[maxi];
+        for(int u : nums) maxi = maxi | u;
+        int n = nums.size();
+        vector<vector<int>>dp(n, vector<int>(maxi+1, -1));
+        int ans = fun(0, 0, dp, nums);
+
+        return ans;
     }
 };
