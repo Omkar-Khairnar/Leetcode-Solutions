@@ -17,7 +17,7 @@ public:
     //     return dp[idx][curr] = take+notTake;
     // }
     int count = 0;
-    void fun(int idx, int curr, vector<vector<int>>&dp, vector<int>&nums){
+    void fun(int idx, int curr, vector<int>&nums){
         // if(idx == nums.size()){
         //     if(curr == maxi) return 1;
         //     return 0;
@@ -30,7 +30,7 @@ public:
 
      
         for(int i= idx; i<nums.size(); i++){
-             fun(i+1, curr|nums[i], dp, nums);
+             fun(i+1, curr|nums[i], nums);
         }
 
         // return dp[idx][curr] = take+notTake;
@@ -42,8 +42,8 @@ public:
     int countMaxOrSubsets(vector<int>& nums) {
         for(int u : nums) maxi = maxi | u;
         int n = nums.size();
-        vector<vector<int>>dp(n, vector<int>(maxi+1, -1));
-         fun(0, 0, dp, nums);
+        // vector<vector<int>>dp(n, vector<int>(maxi+1, -1));
+         fun(0, 0, nums);
 
         return count;
     }
