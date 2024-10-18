@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2155-find-missing-observations](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0476-number-complement) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Segment Tree
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -367,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0732-my-calendar-iii) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
