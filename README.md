@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0476-number-complement](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/0476-number-complement) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 ## Segment Tree
 |  |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
