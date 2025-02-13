@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2846-robot-collisions) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 | [3034-points-that-intersect-with-cars](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Omkar-Khairnar/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Combinatorics
 |  |
 | ------- |
